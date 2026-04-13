@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PointContest</string>
+    <string name="app_title">Point Contest Game</string>
+    <string name="score_label">Score:</string>
+    <string name="button_one">+1 Point</string>
+    <string name="button_two">+2 Points</string>
+    <string name="button_reset">Reset Game</string>
+    <string name="game_message">First to 15 wins the game!</string>
+    <string name="progress_message">Keep playing!</string>
+    <string name="win_message">You are the winner!</string>
+    <string name="initial_score">0</string>
+</resources>

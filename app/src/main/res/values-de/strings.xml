@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PointContest</string>
+    <string name="app_title">Punkte Wettbewerb Spiel</string>
+    <string name="score_label">Punktzahl:</string>
+    <string name="button_one">+1 Punkt</string>
+    <string name="button_two">+2 Punkte</string>
+    <string name="button_reset">Spiel zurücksetzen</string>
+    <string name="game_message">Wer zuerst 15 erreicht, gewinnt das Spiel!</string>
+    <string name="progress_message">Spiel weiter!</string>
+    <string name="win_message">Du bist der Gewinner!</string>
+    <string name="initial_score">0</string>
+</resources>
